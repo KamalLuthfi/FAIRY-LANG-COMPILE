@@ -5816,23 +5816,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1948043285}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b71c42a9a43be246b196f11bdac990c, type: 3}
+  m_Script: {fileID: 11500000, guid: b7a77650eb1388246ae9287bcecdf623, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  answers:
-  - gather landscaping ideas.
-  - ensure the front and backyards blend.
-  - ' an extension of the home itself.'
-  - to spend their time wisely.
-  - the internet.
-  inputFields:
-  - {fileID: 453705656}
-  - {fileID: 2145555430}
-  - {fileID: 1379221956}
-  - {fileID: 2020306168}
-  - {fileID: 1281152029}
-  rightColor: {r: 0.09638941, g: 0.81886786, b: 0.0787967, a: 0}
-  wrongColor: {r: 0.83396226, g: 0.18724804, b: 0.18724804, a: 0}
+  answers: []
+  inputFields: []
+  rightColor: {r: 0, g: 0, b: 0, a: 0}
+  wrongColor: {r: 0, g: 0, b: 0, a: 0}
   textColorAfterCheck: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &1948043287
 Transform:
