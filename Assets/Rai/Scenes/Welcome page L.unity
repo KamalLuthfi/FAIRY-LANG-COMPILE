@@ -1134,7 +1134,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1796696896}
+      - m_Target: {fileID: 1796696898}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -1719,7 +1719,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1796696895}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
+  m_Script: {fileID: 11500000, guid: 5ef0be04f1f04b44589c44efa81d1773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1796696897
