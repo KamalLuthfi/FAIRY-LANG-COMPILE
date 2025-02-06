@@ -221,21 +221,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 30409458}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b71c42a9a43be246b196f11bdac990c, type: 3}
+  m_Script: {fileID: 11500000, guid: b7a77650eb1388246ae9287bcecdf623, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   answers:
   - witness how an organic farm is run.
   - natural methods of farming.
-  - ' the farm.'
+  - the farm.
   - making fertilizers.
   inputFields:
   - {fileID: 679872979}
   - {fileID: 1258782619}
   - {fileID: 146308263}
   - {fileID: 177817399}
-  rightColor: {r: 0.09638941, g: 0.81886786, b: 0.0787967, a: 0}
-  wrongColor: {r: 0.83396226, g: 0.18724804, b: 0.18724804, a: 0}
+  rightColor: {r: 0, g: 0, b: 0, a: 0}
+  wrongColor: {r: 0, g: 0, b: 0, a: 0}
   textColorAfterCheck: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &30409460
 Transform:
@@ -1035,6 +1035,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1504617982}
+  - {fileID: 1526706135}
   m_Father: {fileID: 1228956994}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1267,7 +1268,7 @@ RectTransform:
   - {fileID: 174392033}
   - {fileID: 711088218}
   - {fileID: 1354290356}
-  - {fileID: 1526706135}
+  - {fileID: 1228956994}
   m_Father: {fileID: 643795450}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -3602,7 +3603,7 @@ GameObject:
   - component: {fileID: 1228956996}
   - component: {fileID: 1228956995}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Question 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3615,17 +3616,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1228956993}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 177817398}
-  m_Father: {fileID: 1526706135}
+  m_Father: {fileID: 228869104}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 170, y: 125}
+  m_AnchoredPosition: {x: -107.00009, y: -940}
   m_SizeDelta: {x: 620.4245, y: 86.9817}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1228956995
@@ -4391,17 +4392,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526706134}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1228956994}
-  m_Father: {fileID: 228869104}
+  m_Children: []
+  m_Father: {fileID: 177817398}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -277.00006, y: -1065}
+  m_AnchoredPosition: {x: -177.07341, y: -31.000076}
   m_SizeDelta: {x: -0.000015259, y: 134.5561}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1526706136
