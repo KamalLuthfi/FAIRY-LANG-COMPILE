@@ -246,8 +246,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -582,8 +582,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -718,8 +718,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: ADVANCED
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -854,8 +854,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Check Answer
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -990,8 +990,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1147,8 +1147,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Enter text... '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1588,8 +1588,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 1. Nowadays the Wayang Kulit is
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1888,8 +1888,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter text...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2208,8 +2208,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2532,8 +2532,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter text...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3012,8 +3012,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3414,8 +3414,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 3. The outside of the home nowadays is considered as
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3633,16 +3633,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 653eee876201ed046bfbdca0249af7d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 963290651}
-  songTitleText: {fileID: 0}
-  artistNameText: {fileID: 0}
-  albumCoverImage: {fileID: 0}
-  progressSlider: {fileID: 0}
-  volumeSlider: {fileID: 0}
-  audioClips: []
-  songTitles: []
-  artistNames: []
-  albumCovers: []
 --- !u!1 &967341910
 GameObject:
   m_ObjectHideFlags: 0
@@ -3754,8 +3744,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3890,8 +3880,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Retry
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4163,8 +4153,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 2. It can be concluded that the skills of the Tok Dalang are
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4961,8 +4951,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: '4. A Tok Dalang controls the atmosphere in the hall by '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5097,8 +5087,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Questions 1 \u2013 5"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5516,8 +5506,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter text...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5888,8 +5878,8 @@ MonoBehaviour:
   m_text: "Listen to the audio and fill in the blanks. \nThe picture is for illustration
     only."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6415,8 +6405,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter text...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
-  m_sharedMaterial: {fileID: -6288382901669425086, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
