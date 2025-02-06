@@ -2948,11 +2948,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 955677328}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b71c42a9a43be246b196f11bdac990c, type: 3}
+  m_Script: {fileID: 11500000, guid: b7a77650eb1388246ae9287bcecdf623, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   answers:
-  - ' a hotel.'
+  - a hotel.
   - computer science.
   - at a restaurant.
   - long hours.
@@ -2961,8 +2961,8 @@ MonoBehaviour:
   - {fileID: 268907540}
   - {fileID: 1405133190}
   - {fileID: 628120070}
-  rightColor: {r: 0.09638941, g: 0.81886786, b: 0.0787967, a: 0}
-  wrongColor: {r: 0.83396226, g: 0.18724804, b: 0.18724804, a: 0}
+  rightColor: {r: 0.09803922, g: 0.81960785, b: 0.078431375, a: 0}
+  wrongColor: {r: 0.8352941, g: 0.1882353, b: 0.1882353, a: 0}
   textColorAfterCheck: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &955677330
 Transform:
