@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Asyiqin/Scenes/MCQ EASY LEVEL.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Asyiqin/Scenes/Acknowledgement.unity
+    path: Assets/SceneUmum/Acknowledgement.unity
     guid: 2329deb2e09fc9347b51ee9de0a1abd2
   - enabled: 1
     path: Assets/Asyiqin/Scenes/Answer easy level.unity
@@ -84,7 +84,7 @@ EditorBuildSettings:
     path: Assets/Asyiqin/Scenes/Present Tense 3.unity
     guid: 52491d55cb3a7174e922cdce2b800eb6
   - enabled: 1
-    path: Assets/Asyiqin/Scenes/References.unity
+    path: Assets/SceneUmum/References.unity
     guid: 924e76e5b8a44e14195b4b65825f7a34
   - enabled: 1
     path: Assets/Asyiqin/Scenes/Tenses Menu.unity
@@ -108,7 +108,7 @@ EditorBuildSettings:
     path: Assets/Rai/Scenes/Cp practic 1 & 2.unity
     guid: aa1fba915d6b34f4e8268d3374769114
   - enabled: 1
-    path: Assets/Rai/Scenes/Developer Page.unity
+    path: Assets/SceneUmum/Developer Page.unity
     guid: b548fbe4c549a5541916789469581595
   - enabled: 1
     path: Assets/Rai/Scenes/Feedback Page Easy.unity
