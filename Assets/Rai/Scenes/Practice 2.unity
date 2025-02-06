@@ -234,8 +234,8 @@ MonoBehaviour:
   - {fileID: 1258782619}
   - {fileID: 146308263}
   - {fileID: 177817399}
-  rightColor: {r: 0, g: 0, b: 0, a: 0}
-  wrongColor: {r: 0, g: 0, b: 0, a: 0}
+  rightColor: {r: 0.09803922, g: 0.81960785, b: 0.078431375, a: 0}
+  wrongColor: {r: 0.8352941, g: 0.1882353, b: 0.1882353, a: 0}
   textColorAfterCheck: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &30409460
 Transform:
@@ -2152,8 +2152,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Check Answer
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
-  m_sharedMaterial: {fileID: -115622579284967469, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
