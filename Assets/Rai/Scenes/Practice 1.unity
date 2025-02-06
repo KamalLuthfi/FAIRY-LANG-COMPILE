@@ -1018,7 +1018,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 476482389}
-  - component: {fileID: 476482388}
   - component: {fileID: 476482387}
   m_Layer: 0
   m_Name: Scripts
@@ -1124,28 +1123,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &476482388
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 476482386}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 653eee876201ed046bfbdca0249af7d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  audioSource: {fileID: 476482387}
-  songTitleText: {fileID: 0}
-  artistNameText: {fileID: 0}
-  albumCoverImage: {fileID: 0}
-  progressSlider: {fileID: 0}
-  volumeSlider: {fileID: 0}
-  audioClips: []
-  songTitles: []
-  artistNames: []
-  albumCovers: []
 --- !u!4 &476482389
 Transform:
   m_ObjectHideFlags: 0
@@ -2275,7 +2252,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 740495129}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4aef2bda6a83cc4b8df5257ed829720, type: 3}
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &759896901
@@ -4356,7 +4333,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1692138963}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b71c42a9a43be246b196f11bdac990c, type: 3}
+  m_Script: {fileID: 11500000, guid: b7a77650eb1388246ae9287bcecdf623, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   answers:
@@ -4367,8 +4344,8 @@ MonoBehaviour:
   - {fileID: 584755515}
   - {fileID: 669274244}
   - {fileID: 517383958}
-  rightColor: {r: 0.09638941, g: 0.81886786, b: 0.0787967, a: 0}
-  wrongColor: {r: 0.83396226, g: 0.18724804, b: 0.18724804, a: 0}
+  rightColor: {r: 0.09803922, g: 0.81960785, b: 0.078431375, a: 0}
+  wrongColor: {r: 0.8352941, g: 0.1882353, b: 0.1882353, a: 0}
   textColorAfterCheck: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &1692138965
 Transform:
