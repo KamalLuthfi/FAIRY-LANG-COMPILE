@@ -4581,7 +4581,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1127827584}
-  - component: {fileID: 1127827583}
   - component: {fileID: 1127827582}
   m_Layer: 0
   m_Name: Scripts
@@ -4687,28 +4686,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &1127827583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1127827581}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 653eee876201ed046bfbdca0249af7d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  audioSource: {fileID: 1127827582}
-  songTitleText: {fileID: 0}
-  artistNameText: {fileID: 0}
-  albumCoverImage: {fileID: 0}
-  progressSlider: {fileID: 0}
-  volumeSlider: {fileID: 0}
-  audioClips: []
-  songTitles: []
-  artistNames: []
-  albumCovers: []
 --- !u!4 &1127827584
 Transform:
   m_ObjectHideFlags: 0
