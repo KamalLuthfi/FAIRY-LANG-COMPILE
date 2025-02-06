@@ -1267,8 +1267,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1796696898}
-        m_TargetAssemblyTypeName: UnityEngine.Component, UnityEngine
-        m_MethodName: SendMessage
+        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
+        m_MethodName: Navigation
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
