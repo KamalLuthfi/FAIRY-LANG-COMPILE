@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/MCQ EASY LEVEL.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Acknowledgement.unity
+    guid: 2329deb2e09fc9347b51ee9de0a1abd2
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Answer easy level.unity
+    guid: 0f217187e50c7414ca0b4a495c93c8e4
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Answer hard level.unity
+    guid: 13d97580a5b578542a3ad71b1824eb1b
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Answer Test 1.unity
+    guid: cf29013924c977e488e663e6d7fd33fd
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Answer Test 2.unity
+    guid: 9fa8cdbd9dac22948b992989dbeb2f5a
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Continuos Tense 1.unity
+    guid: db90ec0c2f66c9449960ea9131a0f8fd
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Continuos Tense 2.unity
+    guid: b59448533da2ee24c9dede467fe2db07
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Continuos Tense 3.unity
+    guid: 519a47a36a97aaa41af29e8f3a050595
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Feedback.unity
+    guid: d9dc8614ee1b20643a61baadc370b9c5
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Feedback 2.unity
+    guid: 6ad0835311052d64284c64a269680d79
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Flip 1.unity
+    guid: b645d0842ab56f443b6f0467e27c4eb8
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Flip 2.unity
+    guid: 2e0b68dc94d81894fb0c452e3164aa0e
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Flip 3.unity
+    guid: 9e07be5135fd01743a0064ee106266d6
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Flip 4.unity
+    guid: 17fa5b292ee565c419aeda33936e5ed3
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Flip 5.unity
+    guid: b6b50c5e8268cd942950ea7e5deffe96
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Flip 6.unity
+    guid: ee09f04fce31ed3439d22e19a67c2133
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Grammar Front Page.unity
+    guid: 018d953bf14dabb4f9e35fb2a04c0b63
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Grammar Menu.unity
+    guid: dd4a4512cce5cb947ac23dae2eb305b5
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Let recall.unity
+    guid: 222b9a238f2e7924da3ce681c638864c
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Mcq HARD LEVEL.unity
+    guid: 265e10a35d6646547b341a44e2e5a9bd
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/New Scene.unity
+    guid: 44a60963d3297c04e8290bb7c8797b54
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/OBJECTIVES.unity
+    guid: ac6ae789cc51ad54ab4c5421d6074b14
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Present Tense 1.unity
+    guid: 0ec954dd2fa4ae34e95eb4c64af34ae2
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Present Tense 2.unity
+    guid: ddc84e8cb88dfd748a4f74343e7c4b66
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Present Tense 3.unity
+    guid: 52491d55cb3a7174e922cdce2b800eb6
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/References.unity
+    guid: 924e76e5b8a44e14195b4b65825f7a34
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Tenses Menu.unity
+    guid: 068a5828f7f86494881c85fe80121904
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Testing MCQ.unity
+    guid: 7d518bedefe42c046890fd9eab3fa401
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Tracking 1.unity
+    guid: d7e53fcdefaa0644eb5a60330bd79282
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Tracking 2.unity
+    guid: ca4cc41bd0420164187b8fd40853bd7b
+  - enabled: 1
+    path: Assets/Asyiqin/Scenes/Tracking 3.unity
+    guid: 979b17a5fe077224aa3f0a803f9414f3
+  - enabled: 1
+    path: Assets/Rai/Scenes/Advanced.unity
+    guid: 9bc26eb94bac5a64c98ab178b007da24
+  - enabled: 1
+    path: Assets/Rai/Scenes/Cp practic 1 & 2.unity
+    guid: aa1fba915d6b34f4e8268d3374769114
+  - enabled: 1
+    path: Assets/Rai/Scenes/Developer Page.unity
+    guid: b548fbe4c549a5541916789469581595
+  - enabled: 1
+    path: Assets/Rai/Scenes/Feedback Page Easy.unity
+    guid: 3f8c15884c03d8441b726e4a0ea86e6e
+  - enabled: 1
+    path: Assets/Rai/Scenes/Fib 1.unity
+    guid: 4b1851f1b8761a040b14d12e2b774de2
+  - enabled: 1
+    path: Assets/Rai/Scenes/L1-Importance.unity
+    guid: 1aa0a9cedb8a2494b803a9b319e1f319
+  - enabled: 1
+    path: Assets/Rai/Scenes/L2-Mastering.unity
+    guid: a0392a3e2aeee374e9d9dbb1f9b9b668
+  - enabled: 1
+    path: Assets/Rai/Scenes/Last Feedback.unity
+    guid: 4cfb63ba2ee144f439283ac7c695fbd1
+  - enabled: 1
+    path: Assets/Rai/Scenes/Lesson 5-pre listening quiz.unity
+    guid: 0dd1e4325005a4140ba36aa94c846968
+  - enabled: 1
+    path: Assets/Rai/Scenes/Lesson 6-Listening Quiz.unity
+    guid: 5ae3211de88c3c841bda0420a8f9eebc
+  - enabled: 1
+    path: Assets/Rai/Scenes/Listening Test.unity
+    guid: 81566b7caa106ad4b8b2acc8942651f3
+  - enabled: 1
+    path: Assets/Rai/Scenes/Menu Play.unity
+    guid: f0f33c7e9c720794992276acae3646ff
+  - enabled: 1
+    path: Assets/Rai/Scenes/Objective.unity
+    guid: 41b04fb775713d447a96a87249769247
+  - enabled: 1
+    path: Assets/Rai/Scenes/Practice 1.unity
+    guid: 78205dba7f5a41241bc5e9058f5965c6
+  - enabled: 1
+    path: Assets/Rai/Scenes/Practice 2.unity
+    guid: 131c732bba06d6744a8905e73c113b42
+  - enabled: 1
+    path: Assets/Rai/Scenes/Tracking 1.unity
+    guid: 129aba08bfea8e94489a2e45e3b3d890
+  - enabled: 1
+    path: Assets/Rai/Scenes/Tracking 2.unity
+    guid: d67cbcea059be044ea931c984fd98cec
+  - enabled: 1
+    path: Assets/Rai/Scenes/Tracking 3.unity
+    guid: ef44801e96bddb943b6e18d7b3122290
+  - enabled: 1
+    path: Assets/Rai/Scenes/Welcome page L.unity
+    guid: d8ea93e494643ce4694448f84e1355fe
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
