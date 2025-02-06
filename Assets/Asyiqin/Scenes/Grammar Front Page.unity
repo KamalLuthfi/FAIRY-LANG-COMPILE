@@ -1684,7 +1684,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 60666405}
+      - m_Target: {fileID: 60666407}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5

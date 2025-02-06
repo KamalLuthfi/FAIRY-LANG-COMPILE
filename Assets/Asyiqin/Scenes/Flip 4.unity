@@ -517,8 +517,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: She is dancing
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1804cd9db7a8884ba9724e34571e0f9, type: 2}
-  m_sharedMaterial: {fileID: -1169265052125197671, guid: c1804cd9db7a8884ba9724e34571e0f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -548,7 +548,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2138947038}
+      - m_Target: {fileID: 2138947040}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -812,6 +812,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2138947039}
   - component: {fileID: 2138947038}
+  - component: {fileID: 2138947040}
   m_Layer: 0
   m_Name: Navigation Script
   m_TagString: Untagged
@@ -846,6 +847,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2138947040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2138947037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

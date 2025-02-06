@@ -276,7 +276,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1544922963}
+      - m_Target: {fileID: 1544922965}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -545,8 +545,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Guess the answer
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -704,7 +704,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1544922963}
+      - m_Target: {fileID: 1544922965}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -813,8 +813,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: CHECK
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -844,7 +844,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -950,8 +950,8 @@ MonoBehaviour:
   m_text: How do you form a negative sentence in the present simple tense for "he"
     with the verb "to watch"?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1804cd9db7a8884ba9724e34571e0f9, type: 2}
-  m_sharedMaterial: {fileID: -1169265052125197671, guid: c1804cd9db7a8884ba9724e34571e0f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -981,7 +981,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 2
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -1216,7 +1216,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1544922963}
+      - m_Target: {fileID: 1544922965}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -1276,6 +1276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1544922964}
   - component: {fileID: 1544922963}
+  - component: {fileID: 1544922965}
   m_Layer: 0
   m_Name: Navigation Script
   m_TagString: Untagged
@@ -1310,6 +1311,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1544922965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544922962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1801001723
 GameObject:
   m_ObjectHideFlags: 0
@@ -1470,7 +1483,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1544922963}
+      - m_Target: {fileID: 1544922965}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
