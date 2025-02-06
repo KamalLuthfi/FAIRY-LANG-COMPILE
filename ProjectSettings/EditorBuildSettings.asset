@@ -12,6 +12,66 @@ EditorBuildSettings:
     path: Assets/SceneUmum/Acknowledgement.unity
     guid: 2329deb2e09fc9347b51ee9de0a1abd2
   - enabled: 1
+    path: Assets/Nad/Scenes/2 pronounciation.unity
+    guid: 912fcb012c700694cab5b4dcbea01dd6
+  - enabled: 1
+    path: Assets/Nad/Scenes/3 objective.unity
+    guid: cdd8eafacf257ee4ba778297020ad5bb
+  - enabled: 1
+    path: Assets/Nad/Scenes/4 start.unity
+    guid: d9a60495f0001444791e24a3f0cf4294
+  - enabled: 1
+    path: Assets/Nad/Scenes/5 lesson.unity
+    guid: 53a50afa5c7ee5f4f927c6de43b9b270
+  - enabled: 1
+    path: Assets/Nad/Scenes/6 lesson.unity
+    guid: 17b98f663d4a42940b40aba3e494a18e
+  - enabled: 1
+    path: Assets/Nad/Scenes/7 listen.unity
+    guid: 3be5e06405061ad46b931f7c9c3a3d20
+  - enabled: 1
+    path: Assets/Nad/Scenes/8 lesson.unity
+    guid: 1f894f1274a393d49a1f0517d398e53d
+  - enabled: 1
+    path: Assets/Nad/Scenes/9 listen.unity
+    guid: 44122140368b7724884b6d11b50308b8
+  - enabled: 1
+    path: Assets/Nad/Scenes/10 lesson.unity
+    guid: a27c371895435d44298aecb87cc9ffa9
+  - enabled: 1
+    path: Assets/Nad/Scenes/11 listen.unity
+    guid: 57b3950990314734b87e75731b880010
+  - enabled: 1
+    path: Assets/Nad/Scenes/12 listen.unity
+    guid: a4a1eccb45b4e0745b41ad6b7c78be1a
+  - enabled: 1
+    path: Assets/Nad/Scenes/13 extra.unity
+    guid: a45db569f58905f409d48d44196ca850
+  - enabled: 1
+    path: Assets/Nad/Scenes/14 track.unity
+    guid: 8537f353ec155644ca16abf686d6a660
+  - enabled: 1
+    path: Assets/Nad/Scenes/15 exercise.unity
+    guid: c68cc7f710f97544ca60cc22866a26e5
+  - enabled: 1
+    path: Assets/Nad/Scenes/16 activity.unity
+    guid: 886f26607f46e38428812ab15d0817cf
+  - enabled: 1
+    path: Assets/Nad/Scenes/17 activity.unity
+    guid: 3acfb3f9736adad4abc90031888f6420
+  - enabled: 1
+    path: Assets/Nad/Scenes/18 track.unity
+    guid: 08e49f729146eb94b84926fc9ed99c05
+  - enabled: 1
+    path: Assets/Nad/Scenes/19 test.unity
+    guid: a95221b023d7ced429149a1f3fb2a971
+  - enabled: 1
+    path: Assets/Nad/Scenes/20 track.unity
+    guid: 70f39c0681a91684ab9b7edfade5a422
+  - enabled: 1
+    path: Assets/Nad/Scenes/21 end.unity
+    guid: 40e482fcf84d46b43b0ce6eb49aef931
+  - enabled: 1
     path: Assets/Asyiqin/Scenes/Answer easy level.unity
     guid: 0f217187e50c7414ca0b4a495c93c8e4
   - enabled: 1
@@ -44,6 +104,54 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Asyiqin/Scenes/Flip 2.unity
     guid: 2e0b68dc94d81894fb0c452e3164aa0e
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/Exercises.unity
+    guid: fe534d6faa7c45d45bcae08bb07b9d6b
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/Feedback.unity
+    guid: fc3ac5d936335f341a6baf76a022dfba
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/fop1.unity
+    guid: 14956f4dbcdea2248bc19787a72fca93
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/FOPEASY.unity
+    guid: 328633ce3759e9a4b933adf84e27566d
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/FOPHARD.unity
+    guid: ba08020d6b9b4494e9bc2ff8a57b8888
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/L1.unity
+    guid: db26b1df31787cc40b7f66bb429be232
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/L2.unity
+    guid: 57ee48d57b5429a4081505d1f9da8906
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/SSEasy.unity
+    guid: 24e5bf8489de38e45ab820a2a2c9ad92
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/SSHard.unity
+    guid: 7c9ba59957e3c064cb9457e44e278c86
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/TEST.unity
+    guid: 444090d388f95984a901f3e00f8d1d6e
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/Tracking1.unity
+    guid: 3debad013c0592441a3e9516c5c9ab2d
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/Tracking2.unity
+    guid: 9bc7ffa9fe72ea845b2b69b8459633a9
+  - enabled: 1
+    path: Assets/Luthfi/Scenes/Tracking3.unity
+    guid: 54b2bce138539d647882e8a28f963e19
+  - enabled: 1
+    path: Assets/SceneUmum/1 start.unity
+    guid: 4112ec6a0359aab4ba31262e227025ea
+  - enabled: 1
+    path: Assets/SceneUmum/AttentionGrabber.unity
+    guid: 1f885141d95b3cb49a4330e4492ff5c0
+  - enabled: 1
+    path: Assets/SceneUmum/MainMenu.unity
+    guid: 76a971eeeb2f7e144917c915d3b0dac6
   - enabled: 1
     path: Assets/Asyiqin/Scenes/Flip 3.unity
     guid: 9e07be5135fd01743a0064ee106266d6
