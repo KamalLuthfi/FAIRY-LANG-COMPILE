@@ -976,7 +976,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Tracking 3
+          m_StringArgument: Tracking 13
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &186004009
@@ -1477,8 +1477,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Score
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
+  m_sharedMaterial: {fileID: -115622579284967469, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2581,8 +2581,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Congratulations, Fairy Friend!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
+  m_sharedMaterial: {fileID: -115622579284967469, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2717,8 +2717,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Retry the test
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
+  m_sharedMaterial: {fileID: -115622579284967469, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7317,8 +7317,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Anything is possible!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
