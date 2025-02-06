@@ -990,8 +990,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1588,8 +1588,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 1. Nowadays the Wayang Kulit is
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3012,8 +3012,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3414,8 +3414,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 3. The outside of the home nowadays is considered as
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3744,8 +3744,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4153,8 +4153,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 2. It can be concluded that the skills of the Tok Dalang are
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
