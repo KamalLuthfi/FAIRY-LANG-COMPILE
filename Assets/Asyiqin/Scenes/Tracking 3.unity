@@ -128,7 +128,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 102915981}
-  - component: {fileID: 102915980}
   - component: {fileID: 102915982}
   m_Layer: 0
   m_Name: Navigation Script
@@ -137,18 +136,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &102915980
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 102915979}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b64507f10bb88348bed3794a8efb08e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &102915981
 Transform:
   m_ObjectHideFlags: 0
@@ -368,7 +355,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 102915980}
+      - m_Target: {fileID: 102915982}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -863,7 +850,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 102915980}
+      - m_Target: {fileID: 102915982}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
