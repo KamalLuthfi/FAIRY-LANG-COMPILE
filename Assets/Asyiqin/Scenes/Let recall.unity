@@ -467,8 +467,8 @@ MonoBehaviour:
   m_text: Bring out your knowledge by guessing these flashcard! Flip the flashcard
     to know the answer!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -763,8 +763,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Quick Revision!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -866,7 +866,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 888412520}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b64507f10bb88348bed3794a8efb08e, type: 3}
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &888412522
@@ -1208,7 +1208,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 1 start
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1294191354
@@ -1383,8 +1383,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Click on Cosmo to continue!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
