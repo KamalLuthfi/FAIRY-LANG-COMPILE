@@ -381,28 +381,28 @@ MonoBehaviour:
     God for providing us with the strength and health necessary to fulfil this work
     successfully and efficiently. His blessings have been crucial to our development.
     We are grateful for the wonderful health and determination He has bestowed upon
-    us, allowing us to work tirelessly and responsibly to complete our duty.\r\n\r\n               
-    We would also like to \n                thank our lecturer,  \n               
-    Miss Onaliza Binti \n                 Satimin, for her \n                  advice
-    and support \n                   throughout this  \n                  assignment.
-    Her \nabundance of knowledge and insightful input definitely aided our efforts.
-    Her support and directions have really aided us in achieving positive results.
-    In addition, we are truly grateful for her dedication to teaching this course
-    and deeply appreciate her efforts.\r\n\r\n\t\n\n\n\n\n\tMoreover, we are grateful
-    to University Technology Mara (UITM), Shah Alam campus, Selangor, for allowing
-    us to obtain experience in this field. We would also like to thank our friends
-    and classmates for their ongoing support and insightful discussions, which have
-    greatly aided our work. Special appreciation to them for their feedback, support,
-    and willingness to offer assistance.\r\n\r\n\tFinally, we want to convey our
-    heartfelt gratitude to our families for their constant support and encouragement.
+    us, allowing us to work tirelessly and responsibly to complete our duty.\r\n\r\n                    
+    We would also like to \n                     thank our lecturer,  \n                    
+    Miss Onaliza Binti \n                     Satimin, for her \n                    
+    advice and support \n                     throughout this  \n                 
+    assignment. Her abundance of knowledge and insightful input definitely aided
+    our efforts. Her support and directions have really aided us in achieving positive
+    results. In addition, we are truly grateful for her dedication to teaching this
+    course and deeply appreciate her efforts.\r\n\r\n\t\n\n\n\n\n\t\n\n\nMoreover,
+    we are grateful to University Technology Mara (UITM), Shah Alam campus, Selangor,
+    for allowing us to obtain experience in this field. We would also like to thank
+    our friends and classmates for their ongoing support and insightful discussions,
+    which have greatly aided our work. Special appreciation to them for their feedback,
+    support, and willingness to offer assistance.\r\n\r\n\tFinally, we want to convey
+    our heartfelt gratitude to our families for their constant support and encouragement.
     Their compassion and understanding have created an ideal setting for us to concentrate
     on our academic pursuits. We are sincerely grateful for their kindness. We would
     also like to thank everyone who helped complete our Multimedia Instructional
     Package (MIP), either directly or indirectly. With their help and support, we
     were able to successfully complete this task.\n\n\n\n\n\n\n\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1804cd9db7a8884ba9724e34571e0f9, type: 2}
-  m_sharedMaterial: {fileID: -1169265052125197671, guid: c1804cd9db7a8884ba9724e34571e0f9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -432,7 +432,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -832,8 +832,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.6139, y: -0.47}
-  m_SizeDelta: {x: 736.8411, y: 1089.7168}
+  m_AnchoredPosition: {x: -0.0000052452, y: -17.6071}
+  m_SizeDelta: {x: 720, y: 1159.8638}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &919244428
 MonoBehaviour:
@@ -988,6 +988,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1083129164}
   - component: {fileID: 1083129163}
+  - component: {fileID: 1083129165}
   m_Layer: 0
   m_Name: Navigation Script
   m_TagString: Untagged
@@ -1022,6 +1023,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1083129165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1083129162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1097417439
 GameObject:
   m_ObjectHideFlags: 0
@@ -1157,8 +1170,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Acknowledgement
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1317,7 +1330,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1695593647}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.28577867
+  m_Size: 0.3044663
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1810,8 +1823,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -219, y: 1036}
-  m_SizeDelta: {x: 226.8094, y: 345.6855}
+  m_AnchoredPosition: {x: -242.45, y: 1139.9672}
+  m_SizeDelta: {x: 218.1, y: 362.2104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1861092872
 MonoBehaviour:
@@ -2035,16 +2048,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1083129162}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1083129165}
+        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
+        m_MethodName: Navigation
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 1 start
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2138051685
