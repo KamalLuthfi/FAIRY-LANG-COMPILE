@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: TEST
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
+  m_sharedMaterial: {fileID: -115622579284967469, guid: fa8343e3c93d0e2488bc833390d04fa8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -314,8 +314,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: LESSON
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -401,6 +401,7 @@ GameObject:
   m_Component:
   - component: {fileID: 60666406}
   - component: {fileID: 60666405}
+  - component: {fileID: 60666407}
   m_Layer: 0
   m_Name: Navigation Lesson Button
   m_TagString: Untagged
@@ -435,6 +436,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &60666407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 60666404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38cf6b1f915ef794ebb525f9b2a5084f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &114591155
 GameObject:
   m_ObjectHideFlags: 0
@@ -695,7 +708,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 60666405}
+      - m_Target: {fileID: 60666407}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -804,8 +817,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: EXERCISE
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -835,7 +848,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1139,7 +1152,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 60666405}
+      - m_Target: {fileID: 60666407}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -1307,7 +1320,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 60666405}
+      - m_Target: {fileID: 60666407}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -1316,7 +1329,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 1 start
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1249511843
@@ -1416,8 +1429,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: OBJECTIVES
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
-  m_sharedMaterial: {fileID: -2479408561257218829, guid: 4319ecc38c775d947bc7357db09c7ac0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1447,7 +1460,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1940,7 +1953,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 60666405}
+      - m_Target: {fileID: 60666407}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
@@ -2085,8 +2098,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Come on! let's delve in!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2247,7 +2260,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 60666405}
+      - m_Target: {fileID: 60666407}
         m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: Navigation
         m_Mode: 5
