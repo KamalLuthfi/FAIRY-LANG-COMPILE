@@ -1384,8 +1384,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Are you excited?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
+  m_sharedMaterial: {fileID: -4972318805067242001, guid: 84c003119fab000449dbaea486b6ba5a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
