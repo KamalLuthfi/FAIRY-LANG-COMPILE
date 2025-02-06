@@ -882,7 +882,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 761885877}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 85024736}
+        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
+        m_MethodName: Navigation
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 4 start
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &761885877
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1255,7 +1267,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1339779176}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 85024736}
+        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
+        m_MethodName: Navigation
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: New Scene
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1339779176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1376,7 +1400,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1368552923}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 85024736}
+        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
+        m_MethodName: Navigation
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Welcome page L
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1368552923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1716,7 +1752,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36.6
+  m_fontSize: 38.25
   m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 1
