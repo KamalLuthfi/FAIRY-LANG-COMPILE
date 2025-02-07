@@ -1344,7 +1344,7 @@ MonoBehaviour:
   m_CaretWidth: 1
   m_ReadOnly: 0
   m_RichText: 1
-  m_GlobalFontAsset: {fileID: 11400000, guid: 690cecf7f5fc92c4ba7a5096429d4b7a, type: 2}
+  m_GlobalFontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_OnFocusSelectAll: 1
   m_ResetOnDeActivation: 1
   m_KeepTextSelectionVisible: 0
@@ -1752,8 +1752,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Enter text...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4815,8 +4815,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: '4. A Tok Dalang controls the atmosphere in the hall by '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
-  m_sharedMaterial: {fileID: -317112909120429069, guid: db494a9e9d9d87c4484adeae08d9a65a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
+  m_sharedMaterial: {fileID: 8304903464906616323, guid: e8a5093e28aa3d841a336982b81368d6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
