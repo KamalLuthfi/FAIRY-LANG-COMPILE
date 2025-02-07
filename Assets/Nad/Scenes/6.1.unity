@@ -594,7 +594,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 20, y: 13}
+  m_AnchoredPosition: {x: 9, y: 29}
   m_SizeDelta: {x: 784.6765, y: 435.3551}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1249386637
@@ -617,8 +617,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The fiwst step in helping my pwonunciation is through learning sessions.
-    Come on, let's look at the lessons!
+  m_text: Before we move onto pwactice, let's listen to how each alphabets are pwonounced!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 11b21b58f61ea484ca5ad574f279d631, type: 2}
   m_sharedMaterial: {fileID: 5890559929944064228, guid: 11b21b58f61ea484ca5ad574f279d631, type: 2}
@@ -645,8 +644,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 70
-  m_fontSizeBase: 70
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1094,7 +1093,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 5 lesson
+          m_StringArgument: 7 listen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1594494356
@@ -1258,7 +1257,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 3 objective
+          m_StringArgument: 6 lesson
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1722866939
