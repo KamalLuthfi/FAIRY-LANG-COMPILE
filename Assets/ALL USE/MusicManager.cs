@@ -16,22 +16,23 @@ public class MusicManager : MonoBehaviour
     public bool muteOnStart = false;
 
     private AudioSource audioSource;
+    private bool isMuted = false; // Tracks mute state
 
     [System.Serializable]
     public class SceneMusic
     {
-        public string sceneName;  // Scene name where this setting applies
+        public string sceneName;
         public AudioClip musicClip;
         public bool muteMusic; // Should this scene be silent?
     }
 
     void Awake()
     {
-        // Singleton pattern: Ensures only one instance exists across scenes
         if (Instance == null)
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
+            Instance.hideFlags = HideFlags.DontUnloadUnusedAsset; // Prevent accidental deletion
         }
         else
         {
@@ -48,17 +49,17 @@ public class MusicManager : MonoBehaviour
         if (muteOnStart)
             audioSource.mute = true;
 
-        // Start default music
         if (defaultMusic != null)
             PlayMusic(defaultMusic);
 
-        // Listen for scene changes
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Check if there's specific music or mute setting for this scene
+        bool sceneMuted = false;
+
+        // Check if this scene has specific music or mute setting
         foreach (SceneMusic sm in sceneMusicList)
         {
             if (sm.sceneName == scene.name)
@@ -66,14 +67,21 @@ public class MusicManager : MonoBehaviour
                 if (sm.muteMusic)
                 {
                     MuteMusic(true);
+                    sceneMuted = true;
                 }
                 else
                 {
                     PlayMusic(sm.musicClip);
                     MuteMusic(false);
                 }
-                return;
+                return; // Exit loop after finding the scene setting
             }
+        }
+
+        // If no specific setting found, resume last played music
+        if (!sceneMuted)
+        {
+            MuteMusic(false);
         }
     }
 
@@ -91,6 +99,7 @@ public class MusicManager : MonoBehaviour
 
     public void MuteMusic(bool mute)
     {
+        isMuted = mute;
         audioSource.mute = mute;
     }
 

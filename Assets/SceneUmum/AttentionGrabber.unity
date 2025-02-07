@@ -514,14 +514,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab150e4e500de094c88bbd427158abaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMusic: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+  defaultMusic: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
   sceneMusicList:
-  - sceneName: 
+  - sceneName: Listening Test
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    muteMusic: 1
+  - sceneName: Fib 1
     musicClip: {fileID: 0}
-    muteMusic: 0
-  - sceneName: 
+    muteMusic: 1
+  - sceneName: Practice 1
     musicClip: {fileID: 0}
-    muteMusic: 0
+    muteMusic: 1
+  - sceneName: Practice 2
+    musicClip: {fileID: 0}
+    muteMusic: 1
+  - sceneName: Advanced
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
   volume: 1
   muteOnStart: 0
 --- !u!1 &493673723
