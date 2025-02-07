@@ -567,6 +567,21 @@ MonoBehaviour:
   - sceneName: Testing MCQ
     musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
     muteMusic: 0
+  - sceneName: FOPEASY
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: FOPHARD
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: SSEasy
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: SSHard
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: TEST
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
   volume: 1
   muteOnStart: 0
 --- !u!1 &493673723
