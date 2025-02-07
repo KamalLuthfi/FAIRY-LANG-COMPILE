@@ -1,0 +1,1 @@
+C:\Users\USER\Desktop\FAIRY-LANG-COMPILE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5b4e612q\obj\armeabi-v7a
