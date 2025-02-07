@@ -585,7 +585,10 @@ MonoBehaviour:
   - sceneName: fop1
     musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
     muteMusic: 0
-  volume: 1
+  - sceneName: FeedbackL
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  volume: 0.5
   muteOnStart: 0
 --- !u!1 &493673723
 GameObject:
