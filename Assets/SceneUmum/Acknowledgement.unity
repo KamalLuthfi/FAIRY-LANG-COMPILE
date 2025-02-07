@@ -354,8 +354,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 288.2835, y: 981.85406}
-  m_SizeDelta: {x: 138.267, y: 142.6174}
+  m_AnchoredPosition: {x: 109.71, y: 1205}
+  m_SizeDelta: {x: 173.27, y: 192.44}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &383801174
 MonoBehaviour:
@@ -456,15 +456,13 @@ MonoBehaviour:
     God for providing us with the strength and health necessary to fulfil this work
     successfully and efficiently. His blessings have been crucial to our development.
     We are grateful for the wonderful health and determination He has bestowed upon
-    us, allowing us to work tirelessly and responsibly to complete our duty.\r\n\r\n                    
-    We would also like to \n                     thank our lecturer,  \n                    
-    Miss Onaliza Binti \n                     Satimin and Madam \n                    
-    Fairuz Husna Binti \n                     Mohd Yusof for their\n                    
-    advice and support \n                     throughout this  \nassignment. Their
-    abundance of knowledge and insightful input definitely aided our efforts. Their
-    guidance and encouragement have been instrumental in helping us achieve positive
-    results. Additionally, we are truly grateful for their dedication to teaching
-    this course and deeply appreciate their efforts.\r\n\r\n\t\n\n\n\n\n\t\n\tMoreover,
+    us, allowing us to work tirelessly and responsibly to complete our duty.\r\n\r\n\n\n\n\n\n\tWe
+    would also like to thank our lecturer, Miss Onaliza Binti Satimin and Madam Fairuz
+    Husna Binti Mohd Yusof for their advice and support throughout this assignment.
+    Their abundance of knowledge and insightful input definitely aided our efforts.
+    Their guidance and encouragement have been instrumental in helping us achieve
+    positive results. Additionally, we are truly grateful for their dedication to
+    teaching this course and deeply appreciate their efforts.\r\n\r\n\t\n\n\n\n\n\t\n\tMoreover,
     we are grateful to University Technology Mara (UITM), Shah Alam campus, Selangor,
     for allowing us to obtain experience in this field. We would also like to thank
     our friends and classmates for their ongoing support and insightful discussions,
@@ -748,7 +746,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1400}
+  m_AnchoredPosition: {x: 22.03, y: -1431}
   m_SizeDelta: {x: 576.7017, y: 418.0911}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &790178672
@@ -1015,7 +1013,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.36935425, y: 310.26538}
+  m_AnchoredPosition: {x: 0, y: 236}
   m_SizeDelta: {x: 463.33, y: 212.224}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &992937236
@@ -2037,8 +2035,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -242.45, y: 1139.9672}
-  m_SizeDelta: {x: 218.1, y: 362.2104}
+  m_AnchoredPosition: {x: -94.259, y: 1205.0231}
+  m_SizeDelta: {x: 174.96, y: 192.3968}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1861092872
 MonoBehaviour:
@@ -2060,7 +2058,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 9080166902129136585, guid: b75519a328d8758499b4c6f475aa0ccd, type: 3}
+  m_Sprite: {fileID: 5613832194173102853, guid: 6fb48a0af54a3624e8eb3e66622e1fd4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
