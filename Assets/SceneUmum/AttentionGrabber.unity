@@ -519,17 +519,11 @@ MonoBehaviour:
   - sceneName: Listening Test
     musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
     muteMusic: 1
-  - sceneName: Fib 1
-    musicClip: {fileID: 0}
-    muteMusic: 1
   - sceneName: Practice 1
     musicClip: {fileID: 0}
     muteMusic: 1
   - sceneName: Practice 2
     musicClip: {fileID: 0}
-    muteMusic: 1
-  - sceneName: Advanced
-    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
     muteMusic: 1
   - sceneName: 11 listen
     musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
@@ -553,9 +547,6 @@ MonoBehaviour:
     musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
     muteMusic: 1
   - sceneName: 9 listen
-    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
-    muteMusic: 1
-  - sceneName: Lesson 6-Listening Quiz
     musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
     muteMusic: 1
   volume: 1
