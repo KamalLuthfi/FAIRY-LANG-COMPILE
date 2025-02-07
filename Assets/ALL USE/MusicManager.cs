@@ -1,127 +1,102 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections;
-using System.Linq;
-
-[System.Serializable]
-public class SceneMusic
-{
-    public string sceneName;
-    public AudioClip musicClip;
-    public bool stopMusic;
-}
 
 public class MusicManager : MonoBehaviour
 {
     public static MusicManager Instance;
 
-    [SerializeField] private SceneMusic[] sceneMusicList;
-    [SerializeField] private float fadeDuration = 1f;
+    [Header("Default Music (Plays at Start)")]
+    public AudioClip defaultMusic;
+
+    [Header("Scene-Specific Music Settings")]
+    public SceneMusic[] sceneMusicList;
+
+    [Header("Global Settings")]
+    [Range(0f, 1f)] public float volume = 1f;
+    public bool muteOnStart = false;
 
     private AudioSource audioSource;
-    private string currentSceneName;
 
-    private void Awake()
+    [System.Serializable]
+    public class SceneMusic
     {
+        public string sceneName;  // Scene name where this setting applies
+        public AudioClip musicClip;
+        public bool muteMusic; // Should this scene be silent?
+    }
+
+    void Awake()
+    {
+        // Singleton pattern: Ensures only one instance exists across scenes
         if (Instance == null)
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
-            audioSource = GetComponent<AudioSource>();
-            if (audioSource == null) audioSource = gameObject.AddComponent<AudioSource>();
-            audioSource.loop = true;
         }
         else
         {
             Destroy(gameObject);
+            return;
         }
-    }
 
-    private void Start()
-    {
+        // Initialize AudioSource
+        audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.loop = true;
+        audioSource.playOnAwake = false;
+        audioSource.volume = volume;
+
+        if (muteOnStart)
+            audioSource.mute = true;
+
+        // Start default music
+        if (defaultMusic != null)
+            PlayMusic(defaultMusic);
+
+        // Listen for scene changes
         SceneManager.sceneLoaded += OnSceneLoaded;
-        currentSceneName = SceneManager.GetActiveScene().name;
-        CheckSceneMusic();
     }
 
-    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (currentSceneName != scene.name)
+        // Check if there's specific music or mute setting for this scene
+        foreach (SceneMusic sm in sceneMusicList)
         {
-            currentSceneName = scene.name;
-            CheckSceneMusic();
-        }
-    }
-
-    private void CheckSceneMusic()
-    {
-        SceneMusic sceneMusic = sceneMusicList.FirstOrDefault(sm => sm.sceneName == currentSceneName);
-
-        if (sceneMusic != null)
-        {
-            if (sceneMusic.stopMusic)
+            if (sm.sceneName == scene.name)
             {
-                StartCoroutine(FadeOut());
-            }
-            else if (sceneMusic.musicClip != null)
-            {
-                if (audioSource.clip != sceneMusic.musicClip)
+                if (sm.muteMusic)
                 {
-                    StartCoroutine(FadeSwitch(sceneMusic.musicClip));
+                    MuteMusic(true);
                 }
+                else
+                {
+                    PlayMusic(sm.musicClip);
+                    MuteMusic(false);
+                }
+                return;
             }
         }
-        // If scene not in list, do nothing - music continues playing
     }
 
-    private IEnumerator FadeSwitch(AudioClip newClip)
+    public void PlayMusic(AudioClip clip)
     {
-        yield return StartCoroutine(FadeOut());
-        audioSource.clip = newClip;
+        if (audioSource.clip == clip) return;  // Avoid restarting the same track
+        audioSource.clip = clip;
         audioSource.Play();
-        StartCoroutine(FadeIn());
     }
 
-    private IEnumerator FadeOut()
+    public void StopMusic()
     {
-        float startVolume = audioSource.volume;
-        while (audioSource.volume > 0)
-        {
-            audioSource.volume -= startVolume * Time.deltaTime / fadeDuration;
-            yield return null;
-        }
         audioSource.Stop();
-        audioSource.volume = startVolume;
     }
 
-    private IEnumerator FadeIn()
+    public void MuteMusic(bool mute)
     {
-        float targetVolume = audioSource.volume;
-        audioSource.volume = 0;
-        while (audioSource.volume < targetVolume)
-        {
-            audioSource.volume += targetVolume * Time.deltaTime / fadeDuration;
-            yield return null;
-        }
+        audioSource.mute = mute;
     }
 
-    // Call these from other scripts to manually control music
-    public static void PlayNewTrack(AudioClip clip)
+    public void SetVolume(float newVolume)
     {
-        Instance.StartCoroutine(Instance.FadeSwitch(clip));
-    }
-
-    public static void StopMusic()
-    {
-        Instance.StartCoroutine(Instance.FadeOut());
-    }
-
-    public static void ResumeMusic()
-    {
-        if (!Instance.audioSource.isPlaying)
-        {
-            Instance.audioSource.Play();
-            Instance.StartCoroutine(Instance.FadeIn());
-        }
+        volume = Mathf.Clamp01(newVolume);
+        audioSource.volume = volume;
     }
 }
