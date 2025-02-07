@@ -688,6 +688,39 @@ MonoBehaviour:
   - sceneName: Listening Test
     musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
     stopMusic: 1
+  - sceneName: Practice 1
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 1
+  - sceneName: Practice 2
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 1
+  - sceneName: Feedback Page Easy
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: L1-Importance
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: L2-Mastering
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: Last Feedback
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: Lesson 5-pre listening quiz
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: Objective
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: Tracking 11
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: Tracking 12
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
+  - sceneName: Tracking 13
+    musicClip: {fileID: 8300000, guid: 5046ccbd37e161346b89f9e6b6060fdf, type: 3}
+    stopMusic: 0
   fadeDuration: 1
 --- !u!4 &777777807
 Transform:
