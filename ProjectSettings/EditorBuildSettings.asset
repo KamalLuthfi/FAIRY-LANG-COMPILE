@@ -48,6 +48,9 @@ EditorBuildSettings:
     path: Assets/Nad/Scenes/13 extra.unity
     guid: a45db569f58905f409d48d44196ca850
   - enabled: 1
+    path: Assets/SceneUmum/Main obj.unity
+    guid: 0df936ab7749daa428f63c5166a9b0bb
+  - enabled: 1
     path: Assets/Nad/Scenes/14 track.unity
     guid: 8537f353ec155644ca16abf686d6a660
   - enabled: 1
