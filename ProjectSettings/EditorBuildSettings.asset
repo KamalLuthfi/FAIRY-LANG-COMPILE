@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/SceneUmum/AttentionGrabber.unity
+    guid: 1f885141d95b3cb49a4330e4492ff5c0
+  - enabled: 1
     path: Assets/Asyiqin/Scenes/MCQ EASY LEVEL.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -150,9 +153,6 @@ EditorBuildSettings:
     path: Assets/SceneUmum/1 start.unity
     guid: 4112ec6a0359aab4ba31262e227025ea
   - enabled: 1
-    path: Assets/SceneUmum/AttentionGrabber.unity
-    guid: 1f885141d95b3cb49a4330e4492ff5c0
-  - enabled: 1
     path: Assets/SceneUmum/MainMenu.unity
     guid: 76a971eeeb2f7e144917c915d3b0dac6
   - enabled: 1
@@ -268,6 +268,6 @@ EditorBuildSettings:
     guid: ef44801e96bddb943b6e18d7b3122290
   - enabled: 1
     path: Assets/Rai/Scenes/Welcome page L.unity
-    guid: d8ea93e494643ce4694448f84e1355fe
+    guid: a9c39301c11776444bb2fba087265fe9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
