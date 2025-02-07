@@ -558,7 +558,37 @@ MonoBehaviour:
   - sceneName: Lesson 6-Listening Quiz
     musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
     muteMusic: 1
-  volume: 1
+  - sceneName: MCQ EASY LEVEL
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: Mcq HARD LEVEL
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: Testing MCQ
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: FOPEASY
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: FOPHARD
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: SSEasy
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: SSHard
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: TEST
+    musicClip: {fileID: 8300000, guid: 8cb3bbaf5ab55ce40bf0e3b220116831, type: 3}
+    muteMusic: 0
+  - sceneName: fop1
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 0
+  - sceneName: FeedbackL
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  volume: 0.5
   muteOnStart: 0
 --- !u!1 &493673723
 GameObject:
