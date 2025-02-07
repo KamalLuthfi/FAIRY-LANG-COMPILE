@@ -531,6 +531,30 @@ MonoBehaviour:
   - sceneName: Advanced
     musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
     muteMusic: 1
+  - sceneName: 11 listen
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 12 listen
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 15 exercise
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 16 activity
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 17 activity
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 19 test
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 7 listen
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
+  - sceneName: 9 listen
+    musicClip: {fileID: 8300000, guid: 000ebfe2eba7bb546ad7beaefcffd39d, type: 3}
+    muteMusic: 1
   volume: 1
   muteOnStart: 0
 --- !u!1 &493673723
